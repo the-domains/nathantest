@@ -1,0 +1,28 @@
+name: nathantest
+favicon: null
+layout_spectrum: 0.2670826695393771
+typography_spectrum: 0.2979194854851812
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8313618996180594
+  lightness: 0.5218489416874945
+  saturation: 0.7287351337727159
+  rhythmicContrast: 0.21504886075854301
+purpose: []
