@@ -1,7 +1,7 @@
 name: nathantest
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.22085
+layout_spectrum: 0.83815
+typography_spectrum: 0.34031
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.8313618996180594
+  brandStrength: 0.4375
   lightness: 0.5218489416874945
-  saturation: 0.7287351337727159
+  saturation: 0.4375
   rhythmicContrast: 0.21504886075854301
 purpose: []
